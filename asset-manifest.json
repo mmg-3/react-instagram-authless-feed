@@ -1,4 +1,17 @@
 {
-  "main.js": "static/js/main.9c64922a.js",
-  "main.js.map": "static/js/main.9c64922a.js.map"
+  "files": {
+    "main.js": "/react-instagram-authless-feed/static/js/main.7230f7af.chunk.js",
+    "main.js.map": "/react-instagram-authless-feed/static/js/main.7230f7af.chunk.js.map",
+    "runtime-main.js": "/react-instagram-authless-feed/static/js/runtime-main.c831bcce.js",
+    "runtime-main.js.map": "/react-instagram-authless-feed/static/js/runtime-main.c831bcce.js.map",
+    "static/js/2.9ef08516.chunk.js": "/react-instagram-authless-feed/static/js/2.9ef08516.chunk.js",
+    "static/js/2.9ef08516.chunk.js.map": "/react-instagram-authless-feed/static/js/2.9ef08516.chunk.js.map",
+    "index.html": "/react-instagram-authless-feed/index.html",
+    "static/js/2.9ef08516.chunk.js.LICENSE.txt": "/react-instagram-authless-feed/static/js/2.9ef08516.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c831bcce.js",
+    "static/js/2.9ef08516.chunk.js",
+    "static/js/main.7230f7af.chunk.js"
+  ]
 }
